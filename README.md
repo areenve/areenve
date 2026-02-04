@@ -36,3 +36,10 @@ I love building ML models, financial analytics tools, and research projects.
 
 
 ## 📊 Stats
+## 📊 Stats
+
+![Arina's GitHub stats](https://github-readme-stats.vercel.app/api?username=areenve&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=areenve&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=areenve&theme=tokyonight)
