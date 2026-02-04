@@ -36,13 +36,3 @@ I love building ML models, financial analytics tools, and research projects.
 
 
 ## 📊 Stats
-
-![Arina's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0AFFEF&size=30&center=true&vCenter=true&width=600&lines=Data+Science+Student;ML+Enthusiast;Finance+Explorer)
-
